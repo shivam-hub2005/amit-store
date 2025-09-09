@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amit-store/static/css/main.9fa51ebc.css",
+    "main.js": "/amit-store/static/js/main.556bb3e1.js",
+    "static/js/453.f6ba0736.chunk.js": "/amit-store/static/js/453.f6ba0736.chunk.js",
+    "index.html": "/amit-store/index.html",
+    "main.9fa51ebc.css.map": "/amit-store/static/css/main.9fa51ebc.css.map",
+    "main.556bb3e1.js.map": "/amit-store/static/js/main.556bb3e1.js.map",
+    "453.f6ba0736.chunk.js.map": "/amit-store/static/js/453.f6ba0736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa51ebc.css",
+    "static/js/main.556bb3e1.js"
+  ]
+}
